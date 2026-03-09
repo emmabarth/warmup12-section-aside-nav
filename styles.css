@@ -1,0 +1,30 @@
+body {
+    background-color: darkorange;
+    font-family: Helvetica, sans-serif;
+}
+
+.site-header {
+    background-color: chartreuse;
+}
+
+.header-site-nav {
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: brown;
+}
+
+.article {
+    background-color: antiquewhite;
+}
+
+.about-the-author {
+    background-color: cadetblue;
+}
+
+.footer {
+    background-color: cornflowerblue;
+}
+
+
